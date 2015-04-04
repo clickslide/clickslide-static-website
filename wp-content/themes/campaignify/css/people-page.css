@@ -1,0 +1,63 @@
+/* PEOPLE PAGE TEMPLATE */
+
+div.person { padding:0 0 3px 0; margin-bottom:17px; overflow:auto; }
+
+#people-page .heading { font-size:120%; margin-bottom:20px; }
+
+.person .photo { float:left; margin:0 15px 2px 0;}
+
+.person .name { margin:2px 0 0 0; clear:none; }
+
+.person .title { font-size:95%; display:block; font-style:italic; }
+
+.person .postsAndWebsite { font-size:90%; }
+
+.person .bio { font-size:90%; margin:15px 0 0 0; }
+
+
+/* AUTHOR/PROFILE PAGE */
+
+.pp-author .name { margin-bottom:0; }
+
+.pp-author .title { margin:0; font-style:italic; font-weight:normal; }
+
+.pp-author .photo { float:left; margin:0 20px 10px 0; }
+
+.pp-author .post .attachment-thumbnail { float:left; width:75px; height:75px; margin:0 10px 5px 0; }
+
+.pp-author .post h3 { margin-bottom:0; }
+
+.pp-author .timeAndComments, .pp-author .categoriesAndTags { font-size:90%; }
+
+
+/* PEOPLE PAGE - TWENTY TWELVE */
+
+.site-content article  { margin-bottom:40px !important; }
+
+.TwentyTwelve .person .name { margin-bottom:3px; font-size:105%; }
+
+.TwentyTwelve .person .title { margin-bottom:2px; }
+
+.TwentyTwelve .person .postsAndWebsite  { font-size:85%; }
+
+.TwentyTwelve .person .bio  { line-height:1.3; }
+
+/* AUTHOR PAGE/PROFILE - TWENTY TWELVE */
+
+.pp-author.TwentyTwelve .name { margin-bottom:5px; font-size:140%; }
+
+.pp-author.TwentyTwelve .title { margin-bottom:3px; font-size:105%; }
+
+.pp-author.TwentyTwelve .website  { font-size:90%; }
+
+.pp-author.TwentyTwelve .bio  { margin-top:15px; line-height:1.3; }
+
+.pp-author.TwentyTwelve #posts  { font-size:125%; margin:15px 0; }
+
+.pp-author.TwentyTwelve .post { margin-bottom:20px; line-height:1.25; }
+
+.pp-author.TwentyTwelve .post h3 { clear:none; font-size:110%; }
+
+.pp-author .timeAndComments, .pp-author .categoriesAndTags { font-style:italic; }
+
+.pp-author.TwentyTwelve .post .excerpt { font-size:90%; margin-top:8px; }
